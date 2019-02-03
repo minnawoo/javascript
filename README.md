@@ -9,7 +9,7 @@ UofT SCS Data Analytics Bootcamp's Unit 14 Assignment
 
 ### Automatic Table Search with Multiple Search Categories
 
-* Using multiple select dropdowns, make it so that the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+* Using multiple select dropdowns, the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
